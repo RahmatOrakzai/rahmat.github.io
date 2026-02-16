@@ -6,9 +6,9 @@ title_separator          : "-"
 name                     : &name "Rahmat Ullah"
 description              : &description "Lecturer in Computer Science | Computational Imaging | Machine Learning for Digital Health"
 
-url                      : https://YOURUSERNAME.github.io
+url                      : https://RahmatOrakzai.github.io
 baseurl                  : ""
-repository               : "YOURUSERNAME/YOURUSERNAME.github.io"
+repository               : "RahmatOrakzai/RahmatOrakzai.github.io"
 
 # Author Sidebar
 author:
@@ -22,17 +22,17 @@ author:
   email            : "rahmat.ullah@essex.ac.uk"
 
   # Academic profiles
-  googlescholar    : "PASTE_YOUR_SCHOLAR_LINK"
-  orcid            : "PASTE_YOUR_ORCID"
-  researchgate     :
+  googlescholar    : "https://scholar.google.com.pk/citations?user=r3q7Re0AAAAJ&hl=en"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5162-5164"
+  researchgate     : "https://www.researchgate.net/profile/Rahmat-Ullah-8?ev=hdr_xprf"
   scopus           :
   pubmed           :
 
   # Developer
-  github           : "YOURUSERNAME"
+  github           : "RahmatOrakzai"
 
   # Social
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/dr-rahmat/"
   twitter          :
 
 # Publications categories
