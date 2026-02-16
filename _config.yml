@@ -14,17 +14,17 @@ repository               : "RahmatOrakzai/RahmatOrakzai.github.io"
 author:
   avatar           : "profile.jpg"
   name             : "Dr Rahmat Ullah"
-  pronouns         :
+  pronouns         : 
   bio              : "Lecturer in Computer Science at the University of Essex specialising in computational imaging, biomedical signal processing, and machine learning for digital health."
   location         : "Colchester, United Kingdom"
   employer         : "University of Essex"
-  uri              : "https://www.essex.ac.uk/"
+  uri              : "https://www.essex.ac.uk/people/ULLAH03304/Rahmat-Ullah"
   email            : "rahmat.ullah@essex.ac.uk"
 
   # Academic profiles
   googlescholar    : "https://scholar.google.com.pk/citations?user=r3q7Re0AAAAJ&hl=en"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5162-5164"
-  researchgate     : "https://www.researchgate.net/profile/Rahmat-Ullah-8?ev=hdr_xprf"
+  researchgate     : "https://www.researchgate.net/profile/Rahmat-Ullah-8"
   scopus           :
   pubmed           :
 
@@ -33,7 +33,7 @@ author:
 
   # Social
   linkedin         : "https://www.linkedin.com/in/dr-rahmat/"
-  twitter          :
+  twitter          : "https://x.com/rahmatorakxai"
 
 # Publications categories
 publication_category:
