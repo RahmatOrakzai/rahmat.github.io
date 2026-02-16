@@ -1,5 +1,5 @@
 ---
-title: "Teaching — University of Essex"
+title: "Lecturer — University of Essex"
 collection: teaching
 type: "Undergraduate Teaching"
 permalink: /teaching/essex
