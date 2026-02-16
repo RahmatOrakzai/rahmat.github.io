@@ -1,28 +1,29 @@
-# Dr Rahmat Ullah — Academic Website
+---
+layout: single
+author_profile: true
+title: ""
+permalink: /
+---
 
-This repository contains the source code for my academic personal website hosted using GitHub Pages.
+I am a Lecturer in Computer Science at the University of Essex and a Fellow of the Higher Education Academy (FHEA). My research focuses on artificial intelligence and computational imaging for digital health, with particular emphasis on non-invasive monitoring of neurodegenerative diseases such as Alzheimer’s disease using microwave sensing technologies.
 
-🌐 Website: https://YOURUSERNAME.github.io  
+I completed my PhD at the University of Edinburgh in collaboration with clinical neuroscientists, where I developed data-driven imaging pipelines for translational healthcare applications. My work integrates machine learning, biomedical signal processing, and sensing technologies to advance early diagnosis and monitoring of neurological conditions.
 
-## About Me
+## Research Interests
 
-I am a Lecturer in Computer Science at the University of Essex specialising in computational imaging, biomedical signal processing, and machine learning for digital health.
+- Machine learning for healthcare  
+- Biomedical signal and image processing  
+- Microwave and radar sensing for medical applications  
+- Computational imaging  
+- Digital health technologies  
+- Human activity recognition and assistive technologies  
 
-My research focuses on non-invasive monitoring of neurodegenerative diseases, particularly Alzheimer’s disease, using microwave sensing and artificial intelligence.
+## Current Position
 
-## Features
-
-- Publications
-- Research projects
-- Teaching activities
-- Academic CV
-- Funding and awards
+**Lecturer in Computer Science**  
+University of Essex, United Kingdom  
+2023 – Present  
 
 ## Contact
 
-Email: rahmat.ullah@essex.ac.uk  
-Institution: University of Essex  
-
----
-
-Built using the Academic Pages Jekyll template.
+Email: rahmat.ullah@essex.ac.uk
