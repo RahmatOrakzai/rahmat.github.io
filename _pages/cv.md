@@ -1,17 +1,19 @@
 ---
 layout: single
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# CV
 
-{% include cv-template.html %}
+Dr. Rahmat Ullah - Lecturer in Computer Science at the University of Essex
 
-<div class="cv-download-links">
-  <a href="{{ base_path }}/cv/" class="btn btn--primary">Download CV as PDF</a>
-</div>
+For a detailed CV with employment history, education, and publications, please contact: rahmat.ullah@essex.ac.uk
+
+[View Publications](/publications/)
+[View Teaching](/teaching/)
+
 
