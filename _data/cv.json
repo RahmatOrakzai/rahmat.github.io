@@ -1,23 +1,28 @@
 {
   "basics": {
-    "name": "Dr Rahmat Ullah",
+    "name": "Rahmat Ullah, Ph.D",
     "label": "Lecturer in Computer Science",
     "email": "rahmat.ullah@essex.ac.uk",
-    "phone": "",
+    "phone": "+447459743769",
     "website": "https://RahmatOrakzai.github.io",
-    "summary": "Lecturer in Computer Science at the University of Essex specialising in AI, computational imaging, biomedical signal processing, and machine learning for digital health.",
+    "summary": "Lecturer in Computer Science specialising in computational imaging, biomedical signal processing, and machine learning for digital health. My research targets non-invasive detection and monitoring of neurodegenerative disease, with a particular emphasis on Alzheimer’s disease using data-driven microwave imaging. I completed my PhD at the University of Edinburgh in collaboration with clinical neuroscientists, developing imaging pipelines for translational healthcare applications. I have teaching and research experience across multiple UK institutions (the University of Essex, University of South Wales, and University of Edinburgh) and I am a Fellow of the Higher Education Academy, with publications in international journals and conferences.",
     "location": {
-      "address": "",
-      "postalCode": "",
+      "address": "105 Hakewill Way",
+      "postalCode": "CO4 5GX",
       "city": "Colchester",
       "countryCode": "UK",
-      "region": "Essex"
+      "region": "England"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "r3q7Re0AAAAJ",
         "url": "https://scholar.google.com.pk/citations?user=r3q7Re0AAAAJ&hl=en"
+      },
+      {
+        "network": "University of Essex",
+        "username": "Rahmat Ullah",
+        "url": "https://www.essex.ac.uk/people/ULLAH03304/Rahmat-Ullah"
       },
       {
         "network": "ORCID",
@@ -38,129 +43,292 @@
   },
   "work": [
     {
-      "position": "Lecturer in Computer Science",
-      "company": "University of Essex",
+      "position": "Lecturer",
+      "company": "University of Essex, UK",
       "website": "https://www.essex.ac.uk/",
-      "startDate": "2023",
+      "startDate": "06/2023",
       "endDate": "Present",
-      "summary": "Teaching and research in software systems, AI, and digital health technologies.",
+      "summary": "Lecturer in Computer Science.",
       "highlights": [
-        "Lead and deliver undergraduate teaching modules.",
-        "Contribute to interdisciplinary digital health research projects."
+        "Module leader and lecturer for undergraduate and postgraduate courses in software engineering and computer science, including group project modules and large-scale software systems & Extreme Programming.",
+        "Design, assessment, and moderation of coursework and examinations for cohorts exceeding 200 students.",
+        "Supervision of undergraduate and MSc dissertation projects.",
+        "Active researcher within the Brain-Computer Interface and Future Health & Technology group, with a focus on digital health and biomedical signal processing.",
+        "Contribution to grant writing and collaborative research projects."
+      ]
+    },
+    {
+      "position": "Research & Development Associate",
+      "company": "University of South Wales, UK",
+      "startDate": "04/2022",
+      "endDate": "05/2023",
+      "summary": "Research and teaching contributions in computing.",
+      "highlights": [
+        "Delivery of seminars and workshops for academic and industry audiences.",
+        "Collaboration with industry partners on projects in augmented reality, AI, data science, and digital health.",
+        "Contribution to grant and funding applications, including European Regional Development Fund projects."
+      ]
+    },
+    {
+      "position": "Teaching Assistant",
+      "company": "University of Edinburgh, UK",
+      "startDate": "10/2018",
+      "endDate": "04/2022",
+      "highlights": [
+        "Laboratory demonstrating and assessment for undergraduate engineering and computing modules.",
+        "Marking, feedback provision, and preparation of teaching materials.",
+        "Support for digital and accessible teaching practices.",
+        "Co-supervision of undergraduate and MSc projects."
+      ]
+    },
+    {
+      "position": "Lecturer",
+      "company": "Iqra National University, Pakistan",
+      "startDate": "04/2017",
+      "endDate": "08/2018",
+      "highlights": [
+        "Teaching of undergraduate and postgraduate courses in software engineering and computer science.",
+        "Supervision of undergraduate and MSc projects.",
+        "Participation in internal quality assurance activities."
+      ]
+    },
+    {
+      "position": "Research Associate",
+      "company": "COMSATS University Islamabad, Pakistan",
+      "startDate": "02/2015",
+      "endDate": "02/2017",
+      "highlights": [
+        "Research support for manuscript preparation and submission.",
+        "Mentoring students in academic writing and responding to peer review."
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Edinburgh",
-      "area": "PhD",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "",
+      "institution": "The University of Edinburgh, Edinburgh, United Kingdom",
+      "area": "Ph.D",
+      "studyType": "Data-Driven Microwave Imaging and Processing Techniques for Monitoring Neurodegenerative Diseases",
+      "startDate": "2018",
+      "endDate": "2022",
       "gpa": null,
-      "courses": [
-        "Data-driven imaging pipelines for translational healthcare applications"
-      ]
+      "courses": []
+    },
+    {
+      "institution": "COMSATS University, Islamabad, Pakistan",
+      "area": "M.Sc. Software Engineering",
+      "studyType": "A Holistic Visual Data Center Simulator",
+      "startDate": "2015",
+      "endDate": "2017",
+      "gpa": "3.69/4",
+      "courses": []
+    },
+    {
+      "institution": "University of Malakand, Dir, Pakistan",
+      "area": "BS Information Technology",
+      "studyType": "Smart Store Records: Automating Works Department Inventory Management",
+      "startDate": "2010",
+      "endDate": "2014",
+      "gpa": "3.90/4",
+      "courses": []
     }
   ],
   "skills": [
     {
-      "name": "Research Areas",
+      "name": "Programming and Scripting",
       "keywords": [
-        "Machine learning for healthcare",
-        "Biomedical signal and image processing",
-        "Microwave and radar sensing",
-        "Computational imaging",
-        "Digital health technologies"
+        "Python",
+        "MATLAB",
+        "C/C++",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Scientific and Engineering Software",
+      "keywords": [
+        "CST Studio Suite",
+        "Vivado",
+        "MATLAB"
+      ]
+    },
+    {
+      "name": "Research and Technical Tools",
+      "keywords": [
+        "LaTeX (Overleaf)",
+        "Version Control",
+        "Data Analysis",
+        "Signal Processing Pipelines"
       ]
     }
   ],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Urdu",
+      "fluency": "Native"
+    },
+    {
+      "language": "Pashto",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Computational imaging",
+        "Biomedical signal processing",
+        "Microwave sensing",
+        "Machine learning for digital health",
+        "Neurodegenerative disease monitoring"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Prof. Tughrul Arslan",
+      "reference": "Professor, School of Engineering, The University of Edinburgh. Email: t.arslan@ed.ac.uk"
+    },
+    {
+      "name": "Prof. Reinhold Scherer",
+      "reference": "Head of School, CSEE, University of Essex. Email: cseeheadofschool@essex.ac.uk"
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "The intersection of artificial intelligence and assistive technologies in the diagnosis and intervention of mental health conditions",
+      "publisher": "Artificial Intelligence Review",
+      "releaseDate": "2026",
+      "summary": "M. Abrar, S. Khalid, R. Ullah, et al."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Privacy-enhanced skin disease classification: Integrating federated learning in an IoT-enabled edge computing",
+      "publisher": "Frontiers in Computer Science",
+      "releaseDate": "2025",
+      "summary": "N. Alasbali, J. Ahmad, A. A. Siddique, O. Saidani, A. Al Mazroa, A. Raza, R. Ullah, and M. S. Khan."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Fuzzy logic model for informed decision-making in risk assessment during software design",
+      "publisher": "Systems",
+      "releaseDate": "2025",
+      "summary": "G. D. Aregbesola, I. Asghar, S. Akbar, and R. Ullah."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "A deep learning approach for non-invasive Alzheimer’s monitoring using microwave radar data",
+      "publisher": "Neural Networks",
+      "releaseDate": "2025",
+      "summary": "X. Chen, D. Zeng, R. Ullah, R. Nawaz, J. Xu, T. Arslan, et al."
+    },
+    {
+      "name": "A coalitional game-based adaptive scheduler leveraging task heterogeneity for greener data centers",
+      "publisher": "IEEE Transactions on Green Communications and Networking",
+      "releaseDate": "2024",
+      "summary": "S. Akbar, U. U. Akbar, R. Ullah, and Z. Zheng."
+    },
+    {
+      "name": "Weighted multi-skill resource constrained project scheduling: A greedy and parallel scheduling approach",
+      "publisher": "IEEE Access",
+      "releaseDate": "2024",
+      "summary": "S. Akbar, M. Zubair, R. Khan, U. U. Akbar, R. Ullah, and Z. Zheng."
+    },
+    {
+      "name": "A machine learning-based classification method for monitoring Alzheimer’s disease using electromagnetic radar data",
+      "publisher": "IEEE Transactions on Microwave Theory and Techniques",
+      "releaseDate": "2023",
+      "summary": "R. Ullah, Y. Dong, T. Arslan, and S. Chandran."
+    },
+    {
+      "name": "Microwave sensing dataset for noninvasive monitoring of ventricle enlargement due to Alzheimer’s disease",
+      "publisher": "Data in Brief",
+      "releaseDate": "2023",
+      "summary": "R. Ullah, I. Saied, and T. Arslan."
+    },
+    {
+      "name": "Multistatic radar-based imaging in layered and dispersive media for biomedical applications",
+      "publisher": "Biomedical Signal Processing and Control",
+      "releaseDate": "2023",
+      "summary": "R. Ullah, I. Saied, and T. Arslan."
+    },
+    {
+      "name": "Measurement of whole-brain atrophy progression using microwave signal analysis",
+      "publisher": "Biomedical Signal Processing and Control",
+      "releaseDate": "2022",
+      "summary": "R. Ullah, I. Saied, and T. Arslan."
+    },
+    {
+      "name": "Parallel delay multiply and sum algorithm for microwave medical imaging using spark big data framework",
+      "publisher": "Algorithms",
+      "releaseDate": "2021",
+      "summary": "R. Ullah and T. Arslan."
+    },
+    {
+      "name": "Simulator for modeling, analysis, and visualizations of thermal status in data centers",
+      "publisher": "Sustainable Computing: Informatics and Systems",
+      "releaseDate": "2018",
+      "summary": "R. Ullah, N. Ahmad, S. U. Malik, S. Akbar, and A. Anjum."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Big data-machine learning processing of recorded radiofrequency physiological and pathological measurements to predict the progression of Alzheimer’s disease",
+      "event": "IEEE Asia-Pacific Microwave Conference (APMC)",
+      "date": "2021",
+      "location": "APMC",
+      "description": "R. Ullah, I. Saied, and T. Arslan."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Exploring the impact of an augmented reality application for bespoke musical instruments",
+      "event": "8th International Conference on Engineering and Emerging Technologies (ICEET)",
+      "date": "2022",
+      "location": "Kuala Lumpur, Malaysia",
+      "description": "I. Asghar, R. Ullah, M. G. Griffiths, and W. Warren."
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "name": "An autonomous vehicle prototype for off-road applications based on deep convolutional neural network",
+      "event": "8th International Conference on Engineering and Emerging Technologies (ICEET)",
+      "date": "2022",
+      "location": "Kuala Lumpur, Malaysia",
+      "description": "R. Ullah, I. Asghar, M. G. Griffiths, and E. Gareth."
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Enhancing forensic audio transcription with neural network-based speaker diarization and gender classification",
+      "event": "International Conference on Engineering and Emerging Technologies (ICEET)",
+      "date": "2024",
+      "location": "ICEET",
+      "description": "R. Ullah et al., DOI: 10.1109/ICEET65156.2024.10913726."
+    },
+    {
+      "name": "Empowering healthcare with deep learning: An application for early detection of skin cancer",
+      "event": "International Conference on Intelligent Systems and Pattern Recognition",
+      "date": "2024",
+      "location": "Springer",
+      "description": "K. J. Oluwatobi et al."
+    },
+    {
+      "name": "Deep learning-based captioning of toys in a smart monitoring system",
+      "event": "International Joint Conference on Neural Networks (IJCNN)",
+      "date": "2025",
+      "location": "IEEE",
+      "description": "K. Jindal et al."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Large Scale Software Systems and Extreme Programming",
+      "institution": "University of Essex",
+      "date": "2023",
+      "role": "Module leader and lecturer",
+      "description": "Undergraduate and postgraduate teaching in software engineering and computer science."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Group Project Modules",
+      "institution": "University of Essex",
+      "date": "2023",
+      "role": "Lecturer and supervisor",
+      "description": "Supervision of undergraduate and MSc dissertation projects."
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
