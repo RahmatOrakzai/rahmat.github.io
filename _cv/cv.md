@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: "Curriculum Vitae"
-permalink: /cv/
+title: "CV"
+collection: cv
+permalink: /cv/cv
 author_profile: true
 redirect_from:
   - /resume
@@ -40,4 +40,3 @@ For the full and up-to-date list of publications, see the [Publications](/public
 - **Teaching Assistant, University of Edinburgh** (2018-2022)
 - **Lecturer, Iqra National University, Pakistan** (2017-2018)
 - **Research Associate, COMSATS University Islamabad** (2015-2017)
-
