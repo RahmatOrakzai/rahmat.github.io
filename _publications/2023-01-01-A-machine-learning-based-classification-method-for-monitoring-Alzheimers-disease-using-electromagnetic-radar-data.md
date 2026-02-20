@@ -8,3 +8,4 @@ citation: " Rahmat Ullah, Yinhuan Dong, Tughrul Arslan, Siddharthan Chandran &qu
 ---
 
 Use [Google Scholar](https://scholar.google.com/scholar?q=A+machine+learning-based+classification+method+for+monitoring+Alzheimer’s+disease+using+electromagnetic+radar+data){:target="_blank"}
+highlight: true
