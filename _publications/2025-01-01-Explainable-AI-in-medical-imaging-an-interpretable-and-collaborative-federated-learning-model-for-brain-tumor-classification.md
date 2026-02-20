@@ -8,3 +8,4 @@ citation: " Shahid Latif, Sarfraz Brohi, Jawad Ahmad, Abdulmajeed Alqhatani, Moh
 ---
 
 Use [Google Scholar](https://scholar.google.com/scholar?q=Explainable+AI+in+medical+imaging:+an+interpretable+and+collaborative+federated+learning+model+for+brain+tumor+classification){:target="_blank"}
+highlight: true
