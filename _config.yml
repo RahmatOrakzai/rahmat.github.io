@@ -10,6 +10,9 @@ url                      : https://RahmatOrakzai.github.io
 baseurl                  : ""
 repository               : "RahmatOrakzai/RahmatOrakzai.github.io"
 
+include:
+  - _pages
+  
 # Author Sidebar
 author:
   avatar           : "profile.jpg"
