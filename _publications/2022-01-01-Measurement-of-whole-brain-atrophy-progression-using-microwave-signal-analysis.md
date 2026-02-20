@@ -8,3 +8,4 @@ citation: " Rahmat Ullah, Imran Saied, Tughrul Arslan &quot;Measurement of whole
 ---
 
 Use [Google Scholar](https://scholar.google.com/scholar?q=Measurement+of+whole-brain+atrophy+progression+using+microwave+signal+analysis){:target="_blank"}
+highlight: true
